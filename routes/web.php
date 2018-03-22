@@ -17,3 +17,10 @@ Route::get('/', function () {
 Route::get('esta', function () {
     return view('bootstrap-4-material-admin.index');
 });
+
+Route::get('main', function () {
+    return view('pages.index');
+});
+Route::get('menu', function () {
+    return view('pages.menu');
+});

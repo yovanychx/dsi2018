@@ -1,9 +1,14 @@
 <div class="wrapper">
     <nav id="sidebar">
         <div class="sidebar-header">
-            <h3>Bootstrap Sidebar</h3>
-            <strong>BS</strong>
+            <h3>RestBar</h3>
+            <strong>RB</strong>
+            <button type="button" id="sidebarCollapse" class="btn btn-info navbar-btn">
+                <a id="toggle-btn" href="#" class="menu-btn active">
+                <span></span>
+            </button>
         </div>
+       
 
         <ul class="list-unstyled components">
             <li class="active">

@@ -19,11 +19,7 @@
     <body>
         <div class="wrapper">
             @include('includes.navbar')
-            <header class="header">
-                    @include('includes.header')
-            </header
-
-
+            
             <div class="content">
                 @yield('content')
             </div>
