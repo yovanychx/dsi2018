@@ -1,37 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="">
+   <meta name="description" content="">
     <meta name="keywords" content="">
-    <title>Vegan Restaurant Responsive Website Templates</title>
-    <!-- Bootstrap -->
+    <title>ResBar-0.1</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <!-- Style CSS -->
     <link href="css/style.css" rel="stylesheet">
-    <!-- Google Fonts -->
-   <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i%7cZilla+Slab:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i%7cZilla+Slab:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
     <link href="css/owl.carousel.css" rel="stylesheet">
     <link href="css/owl.theme.default.css" rel="stylesheet">
     <link href="css/jquery-ui.css" rel="stylesheet">
-    <!-- FontAwesome CSS -->
     <link rel="stylesheet" type="text/css" href="css/fontello.css">
     <link href="css/font-awesome.min.css" rel="stylesheet">
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
 </head>
 
 <body>
-   <!-- top-bar -->
-    <div class="top-bar">
+   <!--<div class="top-bar">
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-5 hidden-xs">
@@ -56,45 +44,31 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- /.top-bar -->
     <!-- header-section-->
     <div class="header-wrapper">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <!-- navigations-->
                     <div class="navigation">
                         <div id="navigation">
                             <ul>
-                                <li class="active"><a href="index.php">Home</a></li>
-                                <li><a href="menu.php">Menu</a>
+                                <li class="active"><a href="/">ResBar</a></li>
+                                <li><a href="">Menu</a>
                                 </li>
-                                <li><a href="services.php">services</a></li>
-                                <li><a href="zoom-gallery.html">Gallery</a></li>
-                                <li class="has-sub"><a href="blog-default.html">Blog</a>
+                                <li><a href="">Servicios</a></li>
+                                <li><a href="">Productos</a></li>
+                                <li class="has-sub"><a href="">Contacto</a>
                                     <ul>
-                                        <li><a href="blog-default.html">Blog Default</a></li>
-                                        <li><a href="blog-single.html">Blog Single</a></li>
+                                        <li><a href="">Contactar</a></li>
+                                        <li><a href="">Quienes somos</a></li>
                                     </ul>
-                                </li>
-                                <li class="has-sub"><a href="#">Pages</a>
-                                    <ul>
-                                        <li><a href="about.html">about</a> </li>
-                                        <li><a href="testimonial.html">Testimonials</a> </li>
-                                        <li><a href="404-page.html">404 page</a> </li>
-                                        <li><a href="faq.html">FAQ</a> </li>
-                                        
-                                        <li><a href="styleguide.html">styleguide</a> </li>
-                                        <li><a href="template-feature.html">Template feature</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="contact-us.html">Contact Us</a>
                                 </li>
                             </ul>
                         </div>
                     </div>
-                    <!-- /.navigations-->
+                 
                 </div>
             </div>
         </div>
@@ -109,11 +83,9 @@
                     <div class="row">
                         <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12">
                             <div class="slider-captions">
-                                <h1 class="slider-title">Restaurant Responsive Free Template
-</h1>
-                                <p class="slider-text hidden-sm hidden-xs">Morbi rutrum neque diamr turpis lorem ipsum dauisque.
+                                <h1 class="slider-title">Imagenes</h1>
+                                <p class="slider-text hidden-sm hidden-xs">Descripcion de las imagenes.
                                 </p>
-                                <a href="#" class="btn btn-default btn-lg hidden-sm hidden-xs">Reserve Your Table</a>
                             </div>
                         </div>
                     </div>
@@ -125,10 +97,9 @@
                     <div class="row">
                         <div class="col-lg-7 col-md-12 col-sm-12  col-xs-12">
                             <div class="slider-captions">
-                                <h1 class="slider-title">Vegan Restaurant Bootstrap 
-Website Template</h1>
-                                <p class="slider-text hidden-sm hidden-xs">Integer ac pharetra arcu, nec porttitor uis idleo sagittis cursus. </p>
-                                <a href="#" class="btn btn-default btn-lg hidden-sm hidden-xs">Get Free Download</a>
+                                <h1 class="slider-title">Imagenes</h1>
+                                <p class="slider-text hidden-sm hidden-xs">Descripcion de las imagenes.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -140,10 +111,9 @@ Website Template</h1>
                     <div class="row">
                         <div class="col-lg-7 col-md-12 col-sm-12  col-xs-12">
                             <div class="slider-captions">
-                                <h1 class="slider-title">Vegiterian Restaurant Free Website
- </h1>
-                                <p class="slider-text hidden-sm hidden-xs">Duisac semper lacus,at fringilla arcuuspendisse arcu ipsum. </p>
-                                <a href="#" class="btn btn-default btn-lg hidden-sm hidden-xs">Download Now</a>
+                                <h1 class="slider-title">Imagenes</h1>
+                                <p class="slider-text hidden-sm hidden-xs">Descripcion de las imagenes.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -151,14 +121,12 @@ Website Template</h1>
             </div>
         </div>
     </div>
-    <!-- /.slider -->
-    <!-- menu -->
     <div class="space-medium">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <div class="section-title">
-                        <h2>Vegan Menu</h2>
+                        <h2>Menu Principal</h2>
                     </div>
                 </div>
             </div>
@@ -166,7 +134,7 @@ Website Template</h1>
                 <!-- starter -->
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="menu-block">
-                        <h3 class="menu-title">Starter</h3>
+                        <h3 class="menu-title">Bebidas Frias</h3>
                         <div class="menu-content">
                             <div class="row">
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
@@ -174,8 +142,8 @@ Website Template</h1>
                                 </div>
                                 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
                                     <div class="dish-content">
-                                        <h5 class="dish-title"><a href="#">Aloo and Dal ki Tikki</a></h5>
-                                        <span class="dish-meta">Onion  /  Tomato</span>
+                                        <h5 class="dish-title"><a href="#">Sodas</a></h5>
+                                        <span class="dish-meta">Descripcion</span>
                                         <div class="dish-price">
                                         <p>$10</p>
                                     </div>
@@ -191,8 +159,8 @@ Website Template</h1>
                                 </div>
                                 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
                                     <div class="dish-content">
-                                        <h5 class="dish-title"><a href="#">Cheese Balls</a></h5>
-                                        <span class="dish-meta">puffed corn  /  cheese-flavored  
+                                        <h5 class="dish-title"><a href="#">Cervezas</a></h5>
+                                        <span class="dish-meta">Descripcion  
                                             <div class="dish-price">
                                         <p>$8</p>
                                     </div>
@@ -209,8 +177,8 @@ Website Template</h1>
                                 </div>
                                 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
                                     <div class="dish-content">
-                                        <h5 class="dish-title"><a href="#">Veg Crispy</a> </h5>
-                                        <span class="dish-meta">Ginger garlic /  Black pepper</span>
+                                        <h5 class="dish-title"><a href="#">Jugos</a> </h5>
+                                        <span class="dish-meta">Descripcion</span>
                                         <div class="dish-price">
                                         <p>$12</p>
                                     </div>
@@ -225,7 +193,7 @@ Website Template</h1>
                 <!-- Soup -->
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="menu-block">
-                        <h3 class="menu-title">Soup</h3>
+                        <h3 class="menu-title">Bebidas Calientes</h3>
                         <div class="menu-content">
                             <div class="row">
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
@@ -233,8 +201,8 @@ Website Template</h1>
                                 </div>
                                 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
                                     <div class="dish-content">
-                                        <h5 class="dish-title"><a href="#">Minestrone</a></h5>
-                                        <span class="dish-meta"> beans  / onions celery / carrots</span>
+                                        <h5 class="dish-title"><a href="#">Cafe</a></h5>
+                                        <span class="dish-meta">Descripcion</span>
                                         <div class="dish-price">
                                         <p>$15</p>
                                     </div>
@@ -250,8 +218,8 @@ Website Template</h1>
                                 </div>
                                 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
                                     <div class="dish-content">
-                                        <h5 class="dish-title"><a href="#">Tomato soup</a></h5>
-                                        <span class="dish-meta">Cheesiy   / Creamy  /  Sweet</span>
+                                        <h5 class="dish-title"><a href="#">Chocolate</a></h5>
+                                        <span class="dish-meta">Descripcion</span>
                                         <div class="dish-price">
                                         <p>$14</p>
                                     </div>
@@ -267,8 +235,8 @@ Website Template</h1>
                                 </div>
                                 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
                                     <div class="dish-content">
-                                        <h5 class="dish-title"><a href="#">Cream of broccoli</a> </h5>
-                                        <span class="dish-meta"> broccoli /  milk  / cream </span>
+                                        <h5 class="dish-title"><a href="#">Leche</a> </h5>
+                                        <span class="dish-meta">Descripcion</span>
                                          <div class="dish-price">
                                         <p>$9</p>
                                     </div>
@@ -283,7 +251,7 @@ Website Template</h1>
                 <!-- main course -->
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="menu-block">
-                        <h3 class="menu-title">Main Course</h3>
+                        <h3 class="menu-title">Postres</h3>
                         <div class="menu-content">
                             <div class="row">
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
@@ -291,8 +259,8 @@ Website Template</h1>
                                 </div>
                                 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
                                     <div class="dish-content">
-                                        <h5 class="dish-title"><a href="#">Biryani</a></h5>
-                                        <span class="dish-meta"> Onion  /  Tomato</span>
+                                        <h5 class="dish-title"><a href="#">Postre1</a></h5>
+                                        <span class="dish-meta">Descripcion</span>
                                          <div class="dish-price">
                                         <p>$14</p>
                                     </div>
@@ -308,9 +276,8 @@ Website Template</h1>
                                 </div>
                                 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
                                     <div class="dish-content">
-                                        <h5 class="dish-title"><a href="#">Paneer Butter Masala</a></h5>
-                                        <span class="dish-meta">Aloo Masala  /  Aloo Palak
-</span>
+                                        <h5 class="dish-title"><a href="#">Postre 2</a></h5>
+                                        <span class="dish-meta">Descripcion</span>
 <div class="dish-price">
                                         <p>$11</p>
                                     </div>
@@ -326,8 +293,8 @@ Website Template</h1>
                                 </div>
                                 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
                                     <div class="dish-content">
-                                        <h5 class="dish-title"><a href="#">Chole Bhature</a> </h5>
-                                        <span class="dish-meta"> Rice Soft Idli  /  Ragi idli  /  Oats Idli </span>
+                                        <h5 class="dish-title"><a href="#">Postre 3</a> </h5>
+                                        <span class="dish-meta">Descripcion</span>
                                         <div class="dish-price">
                                         <p>$8</p>
                                     </div>
@@ -349,7 +316,7 @@ Website Template</h1>
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <div class="section-title">
-                        <h2>Vegan Menu</h2>
+                        <h2>Promociones</h2>
                     </div>
                 </div>
             </div>
@@ -360,8 +327,8 @@ Website Template</h1>
                             <img src="./images/dish_thumb_1.jpg" alt="" class="img-responsive ">
                         </div>
                         <div class="thumb-content">
-                            <h3 class="thumb-title">Dosa</h3>
-                            <p class="thumb-text">Vivamus venenatis l elit imperdies eneande.</p>
+                            <h3 class="thumb-title">Promocion 1</h3>
+                            <p class="thumb-text">Descripcion</p>
                             <p class="thumb-price">$12</p>
                         </div>
                     </div>
@@ -372,8 +339,8 @@ Website Template</h1>
                             <img src="./images/dish_thumb_2.jpg" alt="" class="img-responsive ">
                         </div>
                         <div class="thumb-content">
-                            <h3 class="thumb-title">Chaat</h3>
-                            <p class="thumb-text">Morbi rutrum neque diamr turpis dauisque.</p>
+                            <h3 class="thumb-title">Promocion 2</h3>
+                            <p class="thumb-text">Descripcion</p>
                             <p class="thumb-price">$10</p>
                         </div>
                     </div>
@@ -384,8 +351,8 @@ Website Template</h1>
                             <img src="./images/dish_thumb_3.jpg" alt="" class="img-responsive ">
                         </div>
                         <div class="thumb-content">
-                            <h3 class="thumb-title">Chahou Kheer</h3>
-                            <p class="thumb-text">Donec ornare feliel n condintum clentesque.</p>
+                            <h3 class="thumb-title">Promocion 3</h3>
+                            <p class="thumb-text">DEscripcion</p>
                             <p class="thumb-price">$14</p>
                         </div>
                     </div>
@@ -396,8 +363,8 @@ Website Template</h1>
                             <img src="./images/dish_thumb_4.jpg" alt="" class="img-responsive ">
                         </div>
                         <div class="thumb-content">
-                            <h3 class="thumb-title">Aloo Baingan Masala</h3>
-                            <p class="thumb-text">Nulla dictum dio sed lectus tincidunt sollies.</p>
+                            <h3 class="thumb-title">Promocion 4</h3>
+                            <p class="thumb-text">Descripcion</p>
                             <p class="thumb-price">$15</p>
                         </div>
                     </div>
@@ -407,192 +374,7 @@ Website Template</h1>
     </div>
     <!-- /.menu-thumb -->
     <!-- testimonails -->
-    <div class="space-medium bg-primary">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-offset-1 col-lg-10 col-lg-offset-1 col-lg-10 col-sm-12 col-xs-12">
-                    <div class="section-title">
-                    <div class="testimonial-icon">
-                                        <img src="./images/quote_icon.png" alt="">
-                                    </div>
-                                    <h2 class="testimonial-title">What Our Customers Say</h2>
-                                </div>
-
-                </div>
-
-
-            </div>
-
-
-            <div class="testimonials-carousel">
-                <div class="owl-carousel owl-two owl-theme">
-                    <!-- testimonials -->
-                    <div class="item">
-                        <!-- testimonials -->
-                        <div class="col-lg-offset-1 col-lg-10 col-lg-offset-1 col-lg-10 col-sm-12 col-xs-12">
-                            <div class="testimonial-block">
-                                <div class="testimonial-content">
-                                    
-                                    <p class="testimonial-text">“Aenean aliquam gravida leet tempor sapieneses oesed setsagittis porthasus exeros mattisnon one augues necdu llaorper loremci variuse.”</p>
-                                    <div class="testimonial-meta">
-                                        <p class="testimonial-user">Terry Byrdr</p>
-                                        <div class="star-rating">
-                                            <span><i class="fa fa-star"></i></span>
-                                            <span><i class="fa fa-star"></i></span>
-                                            <span><i class="fa fa-star"></i></span>
-                                            <span><i class="fa fa-star"></i></span>
-                                            <span><i class="fa fa-star"></i></span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /.testimonials -->
-                    <!-- testimonials -->
-                    <div class="item">
-                        <!-- testimonials -->
-                        <div class="col-lg-offset-1 col-lg-10 col-lg-offset-1 col-lg-10 col-sm-12 col-xs-12">
-                            <div class="testimonial-block">
-                                <div class="testimonial-content">
-                                    
-                                    <p class="testimonial-text">“Integer in magna gravida dui aliquet pharetra. Quisque feugiat erat tortor, egeteget massa esulum ultricies miutmi cursus congue.”</p>
-                                    <div class="testimonial-meta">
-                                        <p class="testimonial-user">Miam Luptin</p>
-                                        <div class="star-rating">
-                                            <span><i class="fa fa-star"></i></span>
-                                            <span><i class="fa fa-star"></i></span>
-                                            <span><i class="fa fa-star"></i></span>
-                                            <span><i class="fa fa-star"></i></span>
-                                            <span><i class="fa fa-star"></i></span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /.testimonials -->
-                    <!-- testimonials -->
-                    <div class="item">
-                        <!-- testimonials -->
-                        <div class="col-lg-offset-1 col-lg-10 col-lg-offset-1 col-lg-10 col-sm-12 col-xs-12">
-                            <div class="testimonial-block">
-                                <div class="testimonial-content">
-                                    
-                                    <p class="testimonial-text">“Cras venenatis nulla ac diam varius, venenatis iaculis lorem ipsum doklro sit nibh consectetur. Pellentesturpis egestas.”</p>
-                                    <div class="testimonial-meta">
-                                        <p class="testimonial-user">Olga Medley</p>
-                                        <div class="star-rating">
-                                            <span><i class="fa fa-star"></i></span>
-                                            <span><i class="fa fa-star"></i></span>
-                                            <span><i class="fa fa-star"></i></span>
-                                            <span><i class="fa fa-star"></i></span>
-                                            <span><i class="fa fa-star"></i></span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /.testimonials -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- /.testimonails -->
-    <div class="space-medium">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-lg-4 col-sm-5 col-xs-12">
-                    <div class="widget-schedule">
-                        <div class="schedule-content">
-                            <h3 class="schedule-title">Vegan Opening Hours</h3>
-                            <div class="schedule-icon">
-                                <i class="icon-cutlery-set-of-three-pieces"></i>
-                            </div>
-                            <div class="schedule-time">
-                                <h5 class="time-title">Monday - Friday</h5>
-                                <p>11:00 AM to 3:00 PM
-                                    <br>7:00 PM to 10:00 PM</p>
-                            </div>
-                            <div class="schedule-time">
-                                <h5 class="time-title">Saturday - Sunday</h5>
-                                <p>11:00 AM to 3:00 PM
-                                    <br>7:00 PM to 11:00 PM</p>
-                            </div>
-                            <div class="schedule-line"></div>
-                            <div class="schedule-call">+180-123-4567</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-8 col-lg-8 col-sm-7 col-xs-12">
-                    <div class="book-form">
-                        <div class="row">
-                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                <h2 class="mb30">Personal Informations</h2>
-
-                            </div>
-                            <form>
-                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                    <div class="form-group">
-                                        <label class="control-label sr-only" for="name"> Name</label>
-                                        <input id="name" type="text" placeholder="Name" class="form-control" required>
-                                    </div>
-                                </div>
-                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                    <div class="form-group">
-                                        <label class="control-label sr-only" for="email"> Email</label>
-                                        <input id="email" type="text" placeholder="Email" class="form-control" required>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                    <div class="form-group">
-                                        <label class="control-label sr-only" for="phone"> Phone</label>
-                                        <input id="phone" type="text" placeholder="Phone" class="form-control" required>
-                                    </div>
-                                </div>
-                               
-                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                    <div class="form-group">
-                                        <label class="sr-only" for="datepicker">Date</label>
-                                        <div class="input-group">
-                                            <input id="datepicker" name="datepicker" type="text" placeholder="Date" class="form-control" required="">
-                                            <span class="input-group-addon" id="basic-addon2"><i class="fa fa-calendar"></i></span> </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 mb20">
-                                    <div class="form-group">
-                                        <label class="control-label sr-only required" >Time</label>
-                                        <select  name="select" class="form-control">
-                                            <option value="">Timing</option>
-                                            <option value="">08:00am to 03:00pm</option>
-                                            <option value="">07:00pm to 12:00pm</option>
-                                          
-                                        </select>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                    <div class="form-group">
-                                        <label class="control-label sr-only required">Number of People</label>
-                                        <select  name="select" class="form-control">
-                                            <option value="">Number of People</option>
-                                            <option value="">2 Guests</option>
-                                            <option value="">6 Guests</option>
-                                            <option value="">8 Guests</option>
-                                           
-                                        </select>
-                                    </div>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                    <button type="submit" name="singlebutton" class="btn btn-primary">submit</button>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <
     <!-- footer -->
     <div class="footer">
         <div class="container">
@@ -600,7 +382,7 @@ Website Template</h1>
                 <!-- about-us -->
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="footer-widget">
-                        <div class="ft-logo"><img src="./images/ft-logo.png" alt=""></div>
+                        <div class="ft-logo"><img src="imagen de logo" alt=""></div>
                     </div>
                 </div>
                 <!-- /.about us -->

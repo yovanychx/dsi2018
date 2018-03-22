@@ -12,15 +12,13 @@
 */
 
 Route::get('/', function () {
-    return view('pages.home');
-});
-Route::get('esta', function () {
-    return view('bootstrap-4-material-admin.index');
-});
-
-Route::get('main', function () {
     return view('pages.index');
 });
-Route::get('menu', function () {
-    return view('pages.menu');
-});
+
+Route::get('main', 'MainController@index');
+
+Route::get('main/menu', 'MainController@menu')->name('menu');
+
+Route::any('/', array('as' => 'index', 'uses' => 'MainController@index' ));
+
+Route::any('menu', array('as' => 'menu', 'uses' => 'MainController@menu' ));
