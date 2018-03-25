@@ -59,12 +59,7 @@
                                 </li>
                                 <li><a href="">Servicios</a></li>
                                 <li><a href="">Productos</a></li>
-                                <li class="has-sub"><a href="">Contacto</a>
-                                    <ul>
-                                        <li><a href="">Contactar</a></li>
-                                        <li><a href="">Quienes somos</a></li>
-                                    </ul>
-                                </li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -389,46 +384,39 @@
                 <!-- footer-hosting-services-links -->
                 <div class=" col-lg-2 col-md-2 col-sm-6 col-xs-12">
                     <div class="footer-widget">
-                        <h3 class="footer-title">Quick Links</h3>
+                        <h3 class="footer-title">Enlaces</h3>
                         <ul>
-                            <li><a href="#">Home </a></li>
-                            <li><a href="#">About</a></li>
+                            <li><a href="#">Inicio</a></li>
                             <li><a href="#">Menu</a></li>
-                            <li><a href="#">Services</a></li>
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="#">Contact</a></li>
+                            <li><a href="#">Servicios</a></li>
+                            <li><a href="#">Contacto</a></li>
                         </ul>
                     </div>
                 </div>
-                <!-- /.footer-hosting-services-links -->
-                <!-- footer-useful links -->
                 <div class=" col-lg-2 col-md-2 col-sm-6 col-xs-12">
                     <div class="footer-widget">
                         <h3 class="footer-title">Menu</h3>
                         <ul>
-                            <li><a href="#">breakfast</a></li>
-                            <li><a href="#">Lunch</a></li>
-                            <li><a href="#">Dinner</a></li>
-                            <li><a href="#">Other</a></li>
+                            <li><a href="#">Bebidas Frias</a></li>
+                            <li><a href="#">Bebidas Calientes</a></li>
+                            <li><a href="#">Postres</a></li>
                         </ul>
                     </div>
                 </div>
-                <!-- /.footer-useful links -->
-                <!-- footer-useful links -->
                 <div class=" col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="footer-widget">
-                        <h3 class="footer-title">Contact Info </h3>
+                        <h3 class="footer-title">Sobre nosotros</h3>
                         <div class="contact-info">
                             <span class="contact-icon"><i class="icon-placeholder"></i></span>
-                            <span class="contact-text">167 Science Center Drive, USA</span>
+                            <span class="contact-text">Final 16 avenida sur, Santa Ana, El Salvador</span>
                         </div>
                         <div class="contact-info">
                             <span class="contact-icon"><i class="icon-telephone"></i></span>
-                            <span class="contact-text">+180-123-4567</span>
+                            <span class="contact-text">+(503)2222-2222</span>
                         </div>
                         <div class="contact-info">
                             <span class="contact-icon"><i class="icon-letter"></i></span>
-                            <span class="contact-text">info@vegan.com</span>
+                            <span class="contact-text">uesfmocc@ues.edu.sv</span>
                         </div>
                         <div class="ft-social">
                             <span><a href="#" class="btn-social btn-facebook" ><i class="fa fa-facebook"></i></a></span>
@@ -449,8 +437,8 @@
             <div class="row">
                 <div class="tiny-footer">
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                        <p>Copyright © All Rights Reserved 2020 Template Design by
-                            <a href="https://easetemplate.com/" target="_blank" class="copyrightlink">EaseTemplate</a></p>
+                        <p>Copyright © Todos los derechos reservados 2018
+                           
                     </div>
                 </div>
             </div>
